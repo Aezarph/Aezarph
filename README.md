@@ -7,5 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aezarph&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="./profile-summary-card-output/dracula/0-profile-details.svg" height="160" />
+  
+  <img src="./profile-summary-card-output/dracula/2-most-commit-language.svg" height="160" />
 </div>
