@@ -7,5 +7,5 @@
 <br>
 
 <div align="center">
-  <img src="https://zarph-xi.vercel.app/api/top-langs?username=Aezarph&layout=compact&theme=dracula&langs_count=5" alt="languages graph" />
+  <img src="https://zarph-xi.vercel.app/api/top-langs?username=Aezarph&layout=donut&theme=dracula&langs_count=5" alt="Donut" />
 </div>
